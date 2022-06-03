@@ -1,2 +1,3 @@
-# Portf-lio-Pessoal
+# Trajetória Profissional
+
 Portfólio que conta um pouco da minha trajetória profissional, atualmente estou trabalhando dedicado a projetos de tecnologia. 
